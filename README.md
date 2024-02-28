@@ -1,0 +1,1 @@
+This project deals with exploring the dataset and applying advanced techniques for exploration like Sentence Embedding Visualization. The jypter notebook cobtains whole code exploring and applying advanced techniques to explore it further. The written up document contains additional details, steps innvolved in process and small diagram of the data
